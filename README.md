@@ -1,3 +1,6 @@
+![API Tests](https://github.com/awalshy/rest_express_ts_api/workflows/API%20Tests/badge.svg?branch=main)
+
+---
 # Template RESTful API in TypeScript with ExpressJS and MongoDB
 
 ### Endpoint

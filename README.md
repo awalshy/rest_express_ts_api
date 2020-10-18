@@ -1,5 +1,5 @@
 ![API Tests](https://github.com/awalshy/rest_express_ts_api/workflows/API%20Tests/badge.svg?branch=main)
-
+[![codecov](https://codecov.io/gh/awalshy/rest_express_ts_api/branch/main/graph/badge.svg?token=JYUGi1kTks)](undefined)
 ---
 # Template RESTful API in TypeScript with ExpressJS and MongoDB
 
